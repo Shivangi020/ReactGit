@@ -18,6 +18,9 @@ function App() {
           Learn React
         </a>
         <h1>Component</h1>
+        <h2>Here is your article</h2>
+        <a>Blog</a>
+      
       </header>
     </div>
   );
